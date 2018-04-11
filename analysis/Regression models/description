@@ -1,0 +1,2 @@
+"step" refers to models selected using step-wise, forward and backward selection.
+"gen" refers to models selected using the genetic algorithm.
