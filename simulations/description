@@ -1,1 +1,4 @@
-This folder contains the R code that was used to simulate the base model (section 2) as well as the extensions (section 6.3.1, 6.3.2)
+The R scripts "simulation_base.R", "simulation_homophily_sex.R" and "simulation_decay.R", correspond to the models in sections 2, 6.3.1 and 6.3.2, respetively.
+The R scripts "simulation_norm.R" and "simulation_lim_time.R" are extensions that are not presented in the dissertation, but might be of interest to the reader.
+  "simulation_norm.R" is similar to the "simulation_decay.R" expect that the exonential distribution is replaced by a truncated normal distribution
+  "simulation_lim_time.R" limits the maximum time at which matches can be created
