@@ -1,3 +1,4 @@
-data_base contains the data for the base specifiction of the simulation (section 3)
-data_homophily_sex contains the data for the extension discussed in section 6.3.1
-data_decay contains the data for the extension discussed in section 6.3.2
+The R scripts "data_base.R", "data_homophily_sex.R" and "data_decay.R", correspond to the models in sections 2, 6.3.1 and 6.3.2, respetively.
+The R scripts "data_norm.R" and "data_lim_time.R" are extensions that are not presented in the dissertation, but might be of interest to the reader.
+  "data_norm.R" is similar to the "analysis_decay.R" expect that the exonential distribution is replaced by a truncated normal distribution
+  "data_lim_time.R" limits the maximum time at which matches can be created
