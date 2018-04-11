@@ -5,7 +5,7 @@ lm.forced_inclusion = function(formula, data, keep="", ...) {lm(as.formula(paste
 
 setwd("C:/Users/User/Documents/R/Dissertation/final_data")
 
-data<-readRDS("decay_sex.RDS")
+data<-readRDS("data_decay.RDS")
 
 
 data$mults_gr_1<-0
