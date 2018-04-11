@@ -2,3 +2,4 @@ The R scripts "analysis_base.R", "analysis_homophily_sex.R" and "analysis_decay.
 The R scripts "analysis_norm.R" and "analysis_lim_time.R" are extensions that are not presented in the dissertation, but might be of interest to the reader.
   "analysis_norm.R" is similar to the "analysis_decay.R" expect that the exonential distribution is replaced by a truncated normal distribution
   "analysis_lim_time.R" limits the maximum time at which matches can be created
+The folder "Regression models" contains the regression models created by the above scripts.
